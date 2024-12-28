@@ -1,0 +1,6 @@
+To-DO:
+
+- Main Section BG Picture
+- Main Section Man, Description, and Navigation Text Color
+- 
+- Animations
